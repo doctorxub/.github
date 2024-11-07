@@ -5,7 +5,7 @@ Repository for the Doctor X UB software developed by the University of Barcelona
 - Dr. Luisa Buchaillot
    - Lead Researcher as PhD Thesis, [University of Barcelona](http://www.ub.edu/)
 - Dr. Shawn C. Kefauver
-   - Project Science Directory, [University of Barcelona](http://www.ub.edu/)
+   - Project Science Coordination Director, [University of Barcelona](http://www.ub.edu/)
 - Prof. José Luis Araus
    - Project Principal Investigator, [University of Barcelona](http://www.ub.edu/)
 - Prof. Jose Armando Fernandez Gallego
@@ -15,6 +15,7 @@ Repository for the Doctor X UB software developed by the University of Barcelona
 
 - Administered by [University of Barcelona](http://www.ub.edu/) / [Dept. B.E.E.C.A.](https://www.ub.edu/portal/web/dp-beeca/fisiologia-vegeta) / [Integrative Crop Ecophysiology Group](https://integrativecropecophysiology.com/) and [Universidad de Ibague](https://www.unibague.edu.co/). 
 - We acknowledge support from the Institucio Catalana de Recerca i Estudis Avançats (ICREA), Generalitat de Catalunya, Spain, and the Ramon y Cajal RYC-2019-027818-I research fellowship from the Ministerio de Ciencia e Innovacion, Spain.
+- We also acknowledge support from an anonymous donor in support of the Doctor X UB ICBA project, in collaboration with [International Center for Biosaline Agriculture] (ICBA)(https://www.biosaline.org/).
 
 # License
 
