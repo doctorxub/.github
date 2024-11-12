@@ -33,7 +33,7 @@ Images of diseased plant leaves were collected from trained agriculture technici
 2.2 Data/Image Curation
 Once collected, images were curated and organized for analysis using:
 - ODK Downloader: An open-source JAVA application developed specifically to manage the large dataset efficiently. It downloaded and organized images and form data, allowing users to rename and sort files in a structured, multi-tiered folder system.
-- GitLab Repository: https://gitlab.com/sckefauver/odk-downloader
+- GitLab Repository: (https://github.com/doctorxub/odk-downloader)
 
 2.3 Development of the Algorithm
 The deep learning model was developed using a Convolutional Neural Network (CNN) architecture, optimized for high accuracy in classifying plant disorders. The development process utilized:
@@ -52,7 +52,7 @@ The deep learning model was developed using a Convolutional Neural Network (CNN)
 The Doctor Nabat app was deployed on multiple platforms to ensure accessibility and ease of use.
 
 - GitHub Repository: The trained deep learning models are accessible via a public GitHub repository, allowing others to deploy or contribute to the project.
-- GitHub Repository: https://github.com/sckefauver/ml-icba
+- GitHub Repository: https://github.com/doctorxub/ml-icba and https://github.com/doctorxub/plant-doctor-android
 - Web-Based Application: A web app supporting multiple languages (English, French, Arabic) and accessible on major operating systems was developed, allowing users to upload images and receive diagnoses.
 - Web App: https://drnabat.biosaline.org/icba
 - Android Mobile Application: The app was also released as an Android application, enabling offline access for farmers in field conditions. It is free and accessible on Google Play.
