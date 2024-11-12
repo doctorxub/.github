@@ -1,5 +1,5 @@
 # .github
-Repository for the Doctor X UB software developed by the University of Barcelona Integrative Crop Ecophysiology Research Group.
+GitHub Repository Home Page for the University of Barcelona Integrative Crop Ecophysiology Research Group Doctor X UB Software Development
 
 Doctor Nabat: Plant Disorder Diagnosis App
 Description:
