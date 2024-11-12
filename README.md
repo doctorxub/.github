@@ -9,6 +9,7 @@ Publication Reference Information
 This research has been submitted for consideration of publication and the full details of the publication will be updated below once available:
 Buchaillot et al., 2024 Ecological Informatics "Framework for deep learning diagnosis of plant disorders in horticultural crops: from data collection tools to user-friendly web and mobile apps"
 
+---------------------------------------------------------
 Table of Contents
 1. Overview
 2. Materials and Methods
@@ -18,6 +19,7 @@ Table of Contents
    - 2.4 Accessibility of the DL Model
 3. Contributing
 4. Contact Information
+---------------------------------------------------------
 
 1. Overview
 Doctor Nabat leverages deep learning for real-time plant disorder diagnosis and treatment suggestions. By combining machine learning with user-centered design, the app aims to help smallholder farmers in the MENA region improve their crop management practices.
