@@ -29,11 +29,13 @@ Doctor Nabat leverages deep learning for real-time plant disorder diagnosis and 
 Images of diseased plant leaves were collected from trained agriculture technicians across Spain, Tunisia, Egypt, and the UAE. The data collection process used:
 - Open Data Kit (ODK): This open-source application was used to build survey forms (XLSForms) for data collection. The ODK app allowed users to capture images and other relevant details (e.g., location, species) on mobile devices and upload them to an ODK Aggregate server hosted on Google Cloud.
 - Website: https://getodk.org/
+- All the data collected during the project are now off of the ODK collection site as the data collection has ended. 
 
 2.2 Data/Image Curation
 Once collected, images were curated and organized for analysis using:
 - ODK Downloader: An open-source JAVA application developed specifically to manage the large dataset efficiently. It downloaded and organized images and form data, allowing users to rename and sort files in a structured, multi-tiered folder system.
 - GitLab Repository: (https://github.com/doctorxub/odk-downloader)
+- The ODK Downloader curated data set is available here: https://console.cloud.google.com/storage/browser/doctorx-ub.
 
 2.3 Development of the Algorithm
 The deep learning model was developed using a Convolutional Neural Network (CNN) architecture, optimized for high accuracy in classifying plant disorders. The development process utilized:
